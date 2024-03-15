@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">HELLO IM A PROGRAMMER</h1>
+<h1 align="left">Programmer, The World is Yours. </h1>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...2023<br><br>📚 Currently Working on MERN ...<br><br>🎯 Goals: To become a senior software engineer<br><br>🎲 Fun fact: I love calisthenics and working out.</p>
+<p align="left">✨ Creating bugs since ...2021<br><br>📚 Currently Working on MERN ...<br><br>🎯 Goals: To become a senior software engineer<br><br>🎲 Fun fact: I love chinitas.</p>
 
 ###
 
