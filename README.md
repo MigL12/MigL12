@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">I code with my friends</h2>
+<h2 align="left"></h2>
 
 ###
 
