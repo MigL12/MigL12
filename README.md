@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...2021<br><br>📚 Currently an Aspriring Student ...<br><br>🎯 Goals: To become a senior software engineer<br><br>🎲 Fun fact: I love logical problems.</p>
+<p align="left">✨ Creating bugs since ...2021<br><br>📚 Currently an Aspriring Student ...<br><br>🎯 Goals: To become a Software Engineer / Cyber Security Analyst<br><br>🎲 Fun fact: I love logical problems.</p>
 
 ###
 
